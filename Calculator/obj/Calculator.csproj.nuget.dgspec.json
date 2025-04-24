@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nika\\Documents\\GitHub\\homework2_design_patterns\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Nika\\Documents\\GitHub\\homework2-design-patterns\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nika\\Documents\\GitHub\\homework2_design_patterns\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Nika\\Documents\\GitHub\\homework2-design-patterns\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nika\\Documents\\GitHub\\homework2_design_patterns\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Nika\\Documents\\GitHub\\homework2-design-patterns\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Nika\\Documents\\GitHub\\homework2_design_patterns\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Nika\\Documents\\GitHub\\homework2-design-patterns\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Nika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nika\\Documents\\GitHub\\homework2_design_patterns\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Nika\\Documents\\GitHub\\homework2-design-patterns\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
